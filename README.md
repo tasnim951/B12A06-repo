@@ -11,4 +11,4 @@ Arrow functions are a short way to write functions like (a, b) => a + b and they
 Destructuring lets take values from arrays or objects easily, like [a, b] = [1, 2] or {name, age} = person.
 
 ## 5. Explain template literals in ES6. How are they different from string concatenation?
-Template literals use backticks ` ` so we can put variables inside ${} like Hello ${name} instead of "Hello " + name, makes it shorter and easier.
+Template literals use backticks (``) so we can put variables inside , instead of "Hello " + name,so this makes it shorter and easier.
